@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-# Firstly you must install chromedriver.exe on https://chromedriver.chromium.org/downloads
+# Firstly you must install chromedriver.exe on https://chromedriver.chromium.org/downloads #
 chromeDriverPath = ""   # Enter chromedriver.exe files path here
 
 class Twitter:
