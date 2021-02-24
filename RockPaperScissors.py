@@ -1,5 +1,5 @@
 #Tas Kagıt Makas
-#Author : barış kıvanç
+#Author : barış kıvanç #
 import random as rd
 
 tmlist = ["Rock", "Paper", "Scissors"]
