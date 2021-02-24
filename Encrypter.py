@@ -1,5 +1,5 @@
 # Simple Sezar type encrypter
-# Author : Barış Kıvanç
+# Author : Barış Kıvanç #
 
 def Menu():
     print("=" * 30)
